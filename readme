@@ -1,7 +1,7 @@
 # created by yiyou
 
-The U-net is trained on the drive.ipynb file, the prediction of U-net on DRIVE and STARE are also generated in this file
+The U-net is trained on the drive.ipynb file, prediction map gaiend of U-net on DRIVE and STARE are also generated in this file
 
 The evaluation coefficients is calculated in evaluation.ipynb file using miseval library. The inputs will be pairs of vessel map of reference and prediction
 
-GAN model prediction is run in evaluation.py
+Prediction map gained from GAN model is run by evaluation.py
